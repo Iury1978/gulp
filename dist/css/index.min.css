@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Roboto-400.woff2") format("woff2"), url("../fonts/Roboto-400.woff") format("woff");
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Roboto-700.woff2") format("woff2"), url("../fonts/Roboto-700.woff") format("woff");
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../fonts/Roboto-900.woff2") format("woff2"), url("../fonts/Roboto-900.woff") format("woff");
+}
+body {
+  font-family: Roboto, sans-serif;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIl92YXIuc2NzcyIsImluZGV4LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0U7RUFFSSxhQ0RRO0VERVIsYUNGZ0I7RURHaEI7RUFFRjs7QUFORjtFQUVJO0VBQ0EsYUNEZ0I7RURFaEI7RUFFRjs7QUFORjtFQUVJLGFDQ1E7RURBUjtFQUNBO0VBRUY7O0FDREo7RUFDRSIsImZpbGUiOiJpbmRleC5taW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQG1peGluIGZvbnQoJG5hbWUsICR3ZWlnaHQpIHtcclxuICBAZm9udC1mYWNlIHtcclxuICAgIGZvbnQ6IHtcclxuICAgICAgZmFtaWx5OiAkbmFtZTtcclxuICAgICAgd2VpZ2h0OiAkd2VpZ2h0O1xyXG4gICAgICBkaXNwbGF5OiBzd2FwO1xyXG4gICAgfVxyXG4gICAgc3JjOiB1cmwoXCIuLi9mb250cy8jeyAkbmFtZSB9LSN7ICR3ZWlnaHQgfS53b2ZmMlwiKSBmb3JtYXQoXCJ3b2ZmMlwiKSxcclxuICAgIHVybChcIi4uL2ZvbnRzLyN7ICRuYW1lIH0tI3sgJHdlaWdodCB9LndvZmZcIikgZm9ybWF0KFwid29mZlwiKTtcclxuICB9XHJcbn1cclxuIiwiQGltcG9ydCBcIi4vdmFyXCI7XHJcblxyXG5AaW5jbHVkZSBmb250KFJvYm90bywgNDAwKTtcclxuQGluY2x1ZGUgZm9udChSb2JvdG8sIDcwMCk7XHJcbkBpbmNsdWRlIGZvbnQoUm9ib3RvLCA5MDApO1xyXG5cclxuYm9keSB7XHJcbiAgZm9udC1mYW1pbHk6IFJvYm90bywgc2Fucy1zZXJpZjtcclxufVxyXG4iXX0= */
